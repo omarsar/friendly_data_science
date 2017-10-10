@@ -19,4 +19,4 @@ A new YouTube series that teaches a humanistic, theoretical and practical approa
 **Synopsis:** In this notebook we will continue from where we left off in [Part 1](https://youtu.be/WdDVXMOQMss) of "What is a Tensor?". The main goal of this notebook is to demonstrate how to construct and use **scalars**, **vectors**, **matrices**, and eventually **tensors** of different dimensions. The tools used in this notebook are Python and Numpy. In addition, we will begin to introduce some notations, which will become useful for future programming sessions.
 
 [**YouTube Link**](https://youtu.be/hCSjWCVrphc) |
-[**Jupyter Notebook Link**](LINK)
+[**Jupyter Notebook Link**](https://goo.gl/VzLpqG)
